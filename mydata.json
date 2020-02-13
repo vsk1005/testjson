@@ -1,0 +1,9 @@
+emp = {
+"employees":[
+  {"firstName":"John", "lastName":"Doe"},
+  {"firstName":"Anna", "lastName":"Smith"},
+  {"firstName":"Peter", "lastName":"Jones"}
+],
+"students":[{"id":"001", "sname":"Jolly"}]
+}
+
